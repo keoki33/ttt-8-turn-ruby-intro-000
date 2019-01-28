@@ -16,7 +16,7 @@ else
   turn(board)
 
 end
-display_board(board, index)
+display_board(board)
 end
 
 
