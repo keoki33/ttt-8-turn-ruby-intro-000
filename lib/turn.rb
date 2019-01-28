@@ -14,7 +14,6 @@ if valid_move?(board, user_input)
   move(board, user_input)
 else turn(board)
 end
-display_board(board)
 end
 
 
